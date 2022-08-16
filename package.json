@@ -4,7 +4,8 @@
   "description": "bliss discord bot written with discord.js",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "run": "node index.js",
+    "dev": "nodemon index.js"
   },
   "author": "tripsterxx",
   "license": "ISC",
