@@ -5,11 +5,13 @@
   "main": "index.js",
   "scripts": {
     "run": "node index.js",
-    "dev": "nodemon index.js"
+    "dev": "nodemon index.js",
+    "deploy-commands": "node deploy-commands.js"
   },
   "author": "tripsterxx",
   "license": "ISC",
   "dependencies": {
+    "@discordjs/rest": "^1.0.1",
     "discord.js": "^14.2.0"
   },
   "devDependencies": {
