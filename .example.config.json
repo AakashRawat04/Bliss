@@ -1,3 +1,5 @@
 {
+	"clientId":"client_id / application_id",
+	"guildId":"guild_id of development server",
 	"token": "your-token-goes-here"
 }
